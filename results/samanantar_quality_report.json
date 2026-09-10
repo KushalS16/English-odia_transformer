@@ -1,0 +1,344 @@
+{
+  "total_pairs": 998228,
+  "empty_english": 0,
+  "empty_odia": 0,
+  "exact_duplicate_pairs": 3303,
+  "english_without_latin_script": 0,
+  "odia_without_odia_script": 0,
+  "very_short_english": 17018,
+  "english_characters": {
+    "min": 5,
+    "median": 50.0,
+    "mean": 67.53297242714089,
+    "max": 2198
+  },
+  "odia_characters": {
+    "min": 5,
+    "median": 52.0,
+    "mean": 67.61818542457235,
+    "max": 2024
+  },
+  "length_ratio": {
+    "median": 1.0263157894736843,
+    "mean": 1.074934807321941,
+    "min": 0.0205761316872428,
+    "max": 22.666666666666668
+  },
+  "suspicious_examples": [
+    {
+      "index": 1075,
+      "src": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,",
+      "tgt": "ଏର ଯୀଶୁଙ୍କ ପୁତ୍ର।",
+      "src_chars": 141,
+      "tgt_chars": 17
+    },
+    {
+      "index": 41560,
+      "src": "When the news broke that Sridevi had died of a sudden cardiac arrest at a young age of 54 , the first feeling was shock.",
+      "tgt": "ଶ୍ରୀଦେବୀଙ୍କର ମୃତ୍ୟୁ ଖବର ଯେତେବେଳେ ପ୍ରଥମେ ପ୍ରଚାରିତ ହେଲା, କୁହାଗଲା ଯେ ହୃଦ୍‌ଘାତରେ ତାଙ୍କର ହଠାତ୍‌ ମୃତ୍ୟୁ ଘଟିଛି। ମାତ୍ର ୫୪ ବର୍ଷ ବୟସରେ ଈଶ୍ୱର ବା ଯମରାଜ ତାଙ୍କ ଭଳି ଜଣେ ସୁପର୍‌ଷ୍ଟାର୍‌ଙ୍କୁ ନେଇଯାଇ ଯେ ଘୋର ଅନ୍ୟାୟ କରିଛନ୍ତି, ତାହାହିଁ ଥିଲା ତାଙ୍କର ଅଗଣିତ ପ୍ରଶଂସକଙ୍କର ତତ୍‌କ୍ଷଣାତ୍‌ ପ୍ରତିକ୍ରିୟା। ମାତ୍ର ଚାରି ବର୍ଷ ବୟସରୁ ଅଭିନୟ ଆରମ୍ଭ କରି କୋଟି ହୃଦୟକୁ ଜୟ କରିଥିବା ଏଭଳି ଜଣେ କଳାକାରଙ୍କର ଅକାଳ ବିୟୋଗ ଘଟାଇ ଈଶ୍ୱର ବସ୍ତୁତଃ ଜଣେ ଭିଲେନ୍‌ରେ ପରିଣତ ହୋଇଥିଲେ। ବାଲୁକା ଶିଳ୍ପୀ ସୁଦର୍ଶନ ପଟ୍ଟନାୟକଙ୍କଠାରୁ ଆରମ୍ଭ କରି ପ୍ରଧାନମନ୍ତ୍ରୀ ନରେନ୍ଦ୍ର ମୋଦୀଙ୍କ ପର୍ଯ୍ୟନ୍ତ ଅସଂଖ୍ୟ ଅନୁରାଗୀ ନିଜ ନିଜ ଢଙ୍ଗରେ ଶ୍ରୀଦେବୀଙ୍କ ସ୍ମୃତି ଚାରଣ କରି ଶ୍ରଦ୍ଧାଞ୍ଜଳି ଜ୍ଞାପନ କରିଥିଲେ। (ଅବଶ୍ୟ ଶ୍ରୀଦେବୀ ହଠାତ୍‌ ସବୁ ପ୍ରକାର ଗଣମାଧ୍ୟମକୁ ଶତପ୍ରତିଶତ ଚବିଶ ଘଣ୍ଟା ଦଖଲ କରି ‘ନିରବ ଝଡ଼’ର ଯେଉଁଭଳି ଅବସାନ ଘଟାଇଥିଲେ, ତାହା ସମ୍ପୃକ୍ତ ସମସ୍ତଙ୍କୁ ତାଙ୍କ ପ୍ରତି ଅଧିକ କୃତଜ୍ଞ କରି ତୋଳିଥିବ।) ଜନମାନସରୁ ପ୍ରାୟ ଅପସରି ଯାଇଥିବା ଭାରତର ଏହି ସର୍ବପ୍ରଥମ ସୁପର୍‌ଷ୍ଟାର୍‌ ଅଭିନେତ୍ରୀ ବିଧିର ନିଷ୍ଠୁରତା ଯୋଗୁଁ ପୁଣି ସିନେମା ପାଗଳ ଭାରତୀୟମାନଙ୍କର ହୃଦୟ ସିଂହାସନ ଶେଷଥର ପାଇଁ ଦଖଲ କରି ନେଇଥିଲେ। ଶ୍ରୀଦେବୀଙ୍କର ଏହି ଅନ୍ତିମ ଯାତ୍ରାର ଟ୍ରାଜିକ୍‌ କାହାଣୀଟି ଏହିପରି ଉଚିତ ମାର୍ଗରେ ଯାଉଥିବା ବେଳେ ହଠାତ୍‌ ତାହାକୁ ଏକ ଅନୁଚିତ ମୋଡ଼ ଦେଇ ଦେଇଛି ଦୁବାଇ ପୁଲିସ୍‌। ଶ୍ରୀଦେବୀଙ୍କ ହୃଦ୍‌ଘାତ ଯୋଗୁଁ ଅକାଳ ମୃତ୍ୟୁ ଘଟିଛି ବୋଲି ଗଣମାଧ୍ୟମମାନେ ପ୍ରଚାର କରିବାର ଦିନକ ପରେ ଦୁବାଇ ପୁଲିସ୍‌ ତାହାର ଫୋରେନ୍‌ସିକ୍‌ ଅନୁସନ୍ଧାନ ଫଳାଫଳକୁ ଭିତ୍ତି କରି ପ୍ରକାଶ କଲା ଯେ ହୋଟେଲ୍‌ର ବାଥ୍‌ରୁମ୍‌ରେ ଥିବା ପାଣିଭର୍ତ୍ତି ବାଥ୍‌ ଟବ୍‌ରେ ଅଚାନକ ବୁଡ଼ିଯିବା ଯୋଗୁଁ ତାଙ୍କର ମୃତ୍ୟୁ ଘଟିଛି। ଦୁବାଇ ପୁଲିସ୍‌ର ଏହି ରିପୋର୍ଟ ଶ୍ରୀଦେବୀଙ୍କର ଅକାଳ ମୃତ୍ୟୁରେ ଈଶ୍ୱରଙ୍କର ସିଧାସଳଖ ହାତ ନାହିଁ ବୋଲି ଯଦି ସୂଚାଇ ଥାଏ, ସେଇ ରିପୋର୍ଟରେ ଥିବା ଅନ୍ୟ ଏକ ସୂଚନା ଯାହା ସାବ୍ୟସ୍ତ କରିଥାଏ, ତାହା ହେଲା ନିଜର ମୃତ୍ୟୁ ପାଇଁ ଶ୍ରୀଦେବୀ ନିଜେ ହିଁ ଦାୟୀ। ବର୍ତ୍ତମାନ ବହୁଳ ପ୍ରସାରିତ ଦୁବାଇ ପୁଲିସ୍‌ର ଏହି ଅନ୍ୟ ସୂଚନାଟି ହେଲା ଶ୍ରୀଦେବୀଙ୍କ ରକ୍ତରେ ଆଲ୍‌କହଲ୍‌ (ମଦ)ର ଉପସ୍ଥିତି ଦେଖିବାକୁ ମିଳିଛି। କେତେକ ଗଣମାଧ୍ୟମରେ ପ୍ରକାଶିତ ଖବର ଅନୁସାରେ ଶ୍ରୀଦେବୀଙ୍କ ରକ୍ତରେ ମିଳିଥିବା ଏହି ଆଲ୍‌କହଲ୍‌ ଛାପର ଅନୁପାତ ମଧ୍ୟ ବେଶ୍‌ ଉଚ୍ଚା ଥିଲା। କହିବା ବାହୁଲ୍ୟ ଦୁବାଇ ପୁଲିସ୍‌ର ଏହି ସ୍ପଷ୍ଟୀକରଣ ହଠାତ୍‌ ଶ୍ରୀଦେବୀଙ୍କୁ ପରିଣତ କରିଦେଇଛି ମୁଖମ୍‌ମୁଖମ୍‌ର ଫେରି ଆସିଥିବା ଶ୍ରୀଧରନ୍‌ରେ। ରକ୍ତରେ ଉଚ୍ଚ ଆଲ୍‌କହଲ୍‌ ଉପସ୍ଥିତିର ସରଳ ଅର୍ଥ ହେଲା ଶ୍ରୀଦେବୀ ଅତିରିକ୍ତ ମଦ୍ୟ ପାନ କରି ଶରୀରର ଭାରସାମ୍ୟ ରକ୍ଷା କରି ନପାରି ବାଥ୍‌ ଟବ୍‌ରେ ପଡ଼ିଯାଇ ବୁଡ଼ି ମରିଥିଲେ।",
+      "src_chars": 120,
+      "tgt_chars": 2024
+    },
+    {
+      "index": 49114,
+      "src": "The Legislature of a State may, by law, provide",
+      "tgt": "(୨) ରାଜ୍ୟର ବିଧାନମଣ୍ଡଳ ବିଧି ଦ୍ଵାରା ଅଗ୍ରଦାୟ ରୂପେ ରାଜ୍ୟର ଆକର୍ସ କତା ନି” ନାମରେ ଅଭିହିତ ଏକ ଆକସ୍ମିକତା ନିଧି ସ୍ଥାପନ କରି ପାରିବ ଯହିଁ ରେକି ସେପରି ବିଧି ଦ୍ଵାରା ନିର୍ଦ୍ଧାରିତ ଧନ ରାଶି ଥରକୁ ଥର ଗଚ୍ଛିତ କରାଯିବ ଏବଂ ଅନୁଚ୍ଛେଦ ୨୦୫ ବା ଅନୁଚ୍ଛେଦ ୨୦୬ ଅଧୀନରେ ଅନବେକ୍ଷିତ ବ୍ୟୟର ରାଜ୍ୟର ବିଧାନମଣ୍ଡଳ କର୍ଭକ ବିଧି ଦ୍ବାରା ପ୍ରାଧିକରଣ ଲବିତ ଥିବା ଅବସ୍ଥାରେ ସେପରି ବ୍ୟୟ ନିର୍ବାହ ପ୍ରୟୋଜନରେ ରାଜ୍ୟପାଳ ସେହି ନିଧିରୁ ଅଗ୍ରିମ ଧନ ଦେବାରେ ସମର୍ଥ ହେବାପାଇଁ ଉକ୍ତ ନିଧି ତାଙ୍କ ହାତରେ ରହିବ । ସଂଘ ରାଜ୍ୟମାନଙ୍କମଧ୍ୟରେ ରାଜସ୍ବ ବିତରଣ",
+      "src_chars": 47,
+      "tgt_chars": 452
+    },
+    {
+      "index": 53047,
+      "src": "Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded.",
+      "tgt": "ଶାସ୍ତ୍ର କୁ ହେ :",
+      "src_chars": 163,
+      "tgt_chars": 15
+    },
+    {
+      "index": 71193,
+      "src": "1 Forest and Environment Department An allocation of Rs.718.62 crore is proposed for Forest and Environment Department in the budget estimate including State Plan outlay for Rs.256.54 crore.",
+      "tgt": "1 ଜଙ୍ଗଲ ଓ ପରିବେଶ ବିଭାଗ",
+      "src_chars": 190,
+      "tgt_chars": 22
+    },
+    {
+      "index": 104851,
+      "src": "And said, O my God, I am ashamed and blush to lift up my face to thee, my God: for our iniquities are increased over our head, and our trespass is grown up unto the heavens.",
+      "tgt": "ହେ ମାରେ ପରମେଶ୍ବର,",
+      "src_chars": 173,
+      "tgt_chars": 17
+    },
+    {
+      "index": 130908,
+      "src": "10 crore in 2014-15.",
+      "tgt": "ସୁତରାଂ 2013-14 ଆର୍ଥିକ ବର୍ଷରେ 100 କୋଟି ଟଙ୍କା ବ୍ୟୟବରାଦ କରାଯାଇଥିବା ବେଳେ 2014-15 ଆର୍ଥିକ ବର୍ଷରେ ଏହାକୁ 330 କୋଟି 10 ଲକ୍ଷ ଟଙ୍କାକୁ ବୃଦ୍ଧି କରାଯାଇଛି । ଗ୍ରାମାଞ୍ଚଳରେ ଇନ୍ଦିରା ଆବାସ ଯୋଜନାରେ 1,60,610 ଘର ନିର୍ମାଣ ପାଇଁ 2014-15 ଆର୍ଥିକ ବର୍ଷରେ 1169 କୋଟି 24 ଲକ୍ଷ ଟଙ୍କା ବ୍ୟୟବରାଦ କରାଯାଇଛି ।",
+      "src_chars": 20,
+      "tgt_chars": 264
+    },
+    {
+      "index": 157548,
+      "src": "Hearken not to Hezekiah: for thus saith the king of Assyria, Make an agreement with me by a present, and come out to me, and then eat ye every man of his own vine, and every one of his fig tree, and drink ye every one the waters of his cistern:",
+      "tgt": "ହିଜକିଯ କଥା ଶୁଣ ନାହିଁ।",
+      "src_chars": 244,
+      "tgt_chars": 21
+    },
+    {
+      "index": 189572,
+      "src": "Everyone wants to be successful in life.",
+      "tgt": "ଜୀବନରେ କିଏ ବା ସଫଳତା ହାସଲ କରିବାକୁ ନ ଚାହେଁ । ସମସ୍ତେ ଚାହାଁନ୍ତି ଯେ ଜୀବନରେ ଜଣେ ସଫଳ ମଣିଷ ହେବେ। ଯଦି ଆପଣ ଜୀବନରେ ସଫଳ ହେବାକୁ ଚାହାଁନ୍ତି,ତେବେ ଆପଣଙ୍କୁ କଠିନ ପରିଶ୍ରମ କରିବାକୁ ପଡ଼ିବ।କାରଣ ଅକ୍ଳାନ୍ତ ପରିଶ୍ରମ ଦ୍ୱାରା ହିଁ କେବଳ ଲକ୍ଷ୍ୟ ସ୍ଥଳରେ ପହଁଞ୍ଚିହେବ।ନିଜର ଲକ୍ଷ୍ୟ ସ୍ଥିର କରିବାପରେ ଅକ୍ଳାନ୍ତ ପରିଶ୍ରମ କରିବାକୁ ଭୟ କଲେ ଜୀବନରେ ସଫଳ ହେବେ ନାହିଁ।କାରଣ ପରିଶ୍ରମର କିଛି ବିକଳ୍ପ ନାହିଁ ।",
+      "src_chars": 40,
+      "tgt_chars": 342
+    },
+    {
+      "index": 212071,
+      "src": "That seeing they may see, and not perceive. and hearing they may hear, and not understand. lest at any time they should be converted, and their sins should be forgiven them.",
+      "tgt": "ମୁଁ ଏପରି କରେ କାରଣ:",
+      "src_chars": 173,
+      "tgt_chars": 18
+    },
+    {
+      "index": 212380,
+      "src": "For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end.",
+      "tgt": "ଶାସ୍ତ୍ର କ ହେ:",
+      "src_chars": 164,
+      "tgt_chars": 13
+    },
+    {
+      "index": 219216,
+      "src": "And for them, even for the priests, shall be this holy oblation. toward the north five and twenty thousand in length, and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the LORD shall be in the midst thereof.",
+      "tgt": "ସହେି ବିଶଷେ ଭୂମି",
+      "src_chars": 325,
+      "tgt_chars": 15
+    },
+    {
+      "index": 265648,
+      "src": "And say, Thus saith the Lord GOD. A great eagle with great wings, longwinged, full of feathers, which had divers colours, came unto Lebanon, and took the highest branch of the cedar:",
+      "tgt": "ସମାନଙ୍କେୁ କୁହ,",
+      "src_chars": 182,
+      "tgt_chars": 14
+    },
+    {
+      "index": 283260,
+      "src": "And said, O LORD God of our fathers, art not thou God in heaven? and rulest not thou over all the kingdoms of the heathen? and in thine hand is there not power and might, so that none is able to withstand thee?",
+      "tgt": "ସେ କହିଲେ,",
+      "src_chars": 210,
+      "tgt_chars": 9
+    },
+    {
+      "index": 299845,
+      "src": "Here you can read a small description of the currently selected component. To change the selected component, click on the list to the left. To change the component program, please choose it below.",
+      "tgt": "ଉପାଦାନ ବର୍ଣ୍ଣନା",
+      "src_chars": 196,
+      "tgt_chars": 15
+    },
+    {
+      "index": 304142,
+      "src": "And say, Ye mountains of Israel, hear the word of the Lord GOD. Thus saith the Lord GOD to the mountains, and to the hills, to the rivers, and to the valleys. Behold, I, even I, will bring a sword upon you, and I will destroy your high places.",
+      "tgt": "କୁହ :",
+      "src_chars": 243,
+      "tgt_chars": 5
+    },
+    {
+      "index": 371027,
+      "src": "12 Indemnity for Crop Insurance:",
+      "tgt": "12 ଶସ୍ୟ ବୀମା ଜନିତ କ୍ଷତିପୂରଣ: 30.00 କୋଟି ଟଙ୍କା ପ୍ରାକୃତିକ ଦୁର୍ବିପାକ ଓ ପ୍ରତିକୂଳ ପାଗ ପାଇଁ ଚାଷର କ୍ଷୟକ୍ଷତି ବାବଦରେ କୃଷକ ମାନଙ୍କୁ ବୀମା ସୁରକ୍ଷା ଯୋଗାଇବା ନିମନ୍ତେ ରାଜ୍ୟରେ ଜାତୀୟ କୃଷି ବୀମା ଯୋଜନା (NAIS), ସଂଶୋଧିତ ଜାତୀୟ କୃଷି ବୀମା ଯୋଜନା (MNAIS) ଓ ପାଣିପାଗ ଉପରେ ପର୍ଯ୍ୟବେସିତ ଶସ୍ୟ ବୀମା ଯୋଜନା (WBCIS) ପ୍ରଚଳନ କରାଯାଇଛି ।",
+      "src_chars": 32,
+      "tgt_chars": 294
+    },
+    {
+      "index": 396110,
+      "src": "Moreover of Israel: of the sons of Parosh. Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah.",
+      "tgt": "ଇଶ୍ରାୟେଲ ମଧିଅରେ",
+      "src_chars": 129,
+      "tgt_chars": 15
+    },
+    {
+      "index": 419973,
+      "src": "This will reset your saved settings to default values. Continue?",
+      "tgt": "ସେଟିଙ୍ଗ",
+      "src_chars": 64,
+      "tgt_chars": 7
+    },
+    {
+      "index": 466504,
+      "src": "Behold, the days come, saith the Lord GOD, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the LORD:",
+      "tgt": "ସଦାପ୍ରଭୁ କୁହନ୍ତି:",
+      "src_chars": 166,
+      "tgt_chars": 17
+    },
+    {
+      "index": 482219,
+      "src": "This application is not known to bug-buddy, therefore the bug report cannot be sent to the GNOME Bugzilla. Please save the bug to a text file and report it to the appropriate bug tracker for this application.",
+      "tgt": "ପ୍ରୟୋଗ %sଟି ଅଚଳ ହୋଇଯାଇଛି.",
+      "src_chars": 208,
+      "tgt_chars": 25
+    },
+    {
+      "index": 488840,
+      "src": "Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,",
+      "tgt": "ପ୍ରିୟ ଥିୟଫିଲ,",
+      "src_chars": 129,
+      "tgt_chars": 13
+    },
+    {
+      "index": 523290,
+      "src": "A sum of Rs.",
+      "tgt": "ବିମାନ ଚଳାଚଳ ସଂଯୋଗ ବୃଦ୍ଧି ପାଇଁ ବିମାନ ଅବତରଣ ପଡ଼ିଆ (Air strip) ନିର୍ମାଣ ନିମନ୍ତେ 100 କୋଟି ଟଙ୍କାର ବ୍ୟୟବରାଦ ପ୍ରସ୍ତାବ ରଖାଯାଇଛି ।",
+      "src_chars": 12,
+      "tgt_chars": 120
+    },
+    {
+      "index": 558286,
+      "src": "And saying, Alas, alas, that great city, that was clothed in fine linen, and purple, and scarlet, and decked with gold, and precious stones, and pearls!",
+      "tgt": "ସମାନେେ କହିବେ :",
+      "src_chars": 152,
+      "tgt_chars": 14
+    },
+    {
+      "index": 561709,
+      "src": "Salman Khan is famous for his action films in Bollywood.",
+      "tgt": "ବଲିଉଡରେ ସଲମାନ ଖାନ ଜଣେ ନାମିଦାମି କଳାକାର ଭାବେ ପରିଚିତ । ତାଙ୍କର ଆକ୍ସନ ଫିଲ୍ମ ପାଇଁ ଲୋକମାନେ ତାଙ୍କୁ ବେଶ ପସନ୍ଦ କରିଥାନ୍ତି । କେବଳ ସିନେମା ଜଗତରେ ନୁହେଁ ରିୟଲ ଲାଇଫରେ ମଧ୍ୟ ସଲମାନ ଜଣେ ସହୃଦୟ ବ୍ୟକ୍ତି ଭାବେ ପରିଚିତ । ଲୋକମାନଙ୍କୁ ସେ ବହୁତ ସାହାଯ୍ୟ କରିଥାନ୍ତି । ଯଦି କୌଣସି ବ୍ୟକ୍ତି କେବେ କୌଣସି ଅସୁବିଧାରେ ପଡନ୍ତି ସଲମାନ ତାଙ୍କୁ ସାହାଯ୍ୟର ହାତ ବଢାଇ ଦିଅନ୍ତି । ସଲମାନ ନିଜ ସାମର୍ଥ୍ୟ ମୁତାବକ୍ ଲୋକଙ୍କ ସେବା କରିବାର ସୁଯୋଗ କେବେ ବି ହାତ ଛଡ଼ା କରନ୍ତି ନାହିଁ। ଏପରକି ତାଙ୍କର ‘ବିଙ୍ଗ୍ ହୁମ୍ୟାନ୍’ ନାମରେ ଏକ ସଂଗଠନ ବି ରହିଛି। ଏହି ସଂଗଠନରୁ ଅନୁଦାନ ପାଇଁ ହଜାର ହଜାର ଲୋକ ଉପକୃତ ହୁଅନ୍ତି। ଅନାଥ, ଅଶହାୟ ବୟସ୍କ ବ୍ୟକ୍ତି କିମ୍ବା କୌଣସି ରୋଗ ପୀଡ଼ିତ ଆଦିଙ୍କୁ ସଲମାନ ତାଙ୍କ ‘ବିଙ୍ଗ୍ ହୁମ୍ୟାନ୍’ ସ୍ୱେଚ୍ଛାସେବୀ ସଂଗଠନରୁ ଅନୁଦାନ ଦେଇଥାନ୍ତି।",
+      "src_chars": 56,
+      "tgt_chars": 636
+    },
+    {
+      "index": 576656,
+      "src": "Place of birth: Pune, Maharashtra Date of birth: January 30, 1951 Educational qualification: B.Com Constituency: Member of Rajya Sabha from Madhya Pradesh Past legislative experience: Member of Maharashtra Legislative Council during 1990-2002.",
+      "tgt": "ଜନ୍ମ ତାରିଖ : ଜାନୁୟାରୀ 30, 1951",
+      "src_chars": 243,
+      "tgt_chars": 30
+    },
+    {
+      "index": 682404,
+      "src": "For it is written, Rejoice, thou barren that bearest not. break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.",
+      "tgt": "ଶାସ୍ତ୍ର କୁ ହେ :",
+      "src_chars": 177,
+      "tgt_chars": 15
+    },
+    {
+      "index": 701741,
+      "src": "450 crore under OMBADC funds.",
+      "tgt": "ଓଡ଼ିଶା ଖଣିଜ ସମ୍ପଦପୂର୍ଣ୍ଣ ଅଞ୍ଚଳ ଉନ୍ନୟନ ନିଗମ (odisha_Mineral Bearing Area Development Corporation [OMBADC]) ପାଣ୍ଠିରୁ 8 ଟି ଖଣିଜଦ୍ରବ୍ୟ ଥିବା ଜିଲ୍ଲାର 691 ପ୍ରତ୍ୟକ୍ଷଭାବେ ପ୍ରଭାବିତ ଗ୍ରାମକୁ ପାଇପ୍ ଯୋଗେ ଜଳଯୋଗାଣ ପାଇଁ 450 କୋଟି ଟଙ୍କା ବ୍ୟୟ ଅଟକଳ କରାଯାଉଛି ।",
+      "src_chars": 29,
+      "tgt_chars": 238
+    },
+    {
+      "index": 719995,
+      "src": "This application is not known to Bug Buddy, therefore the bug report cannot be sent to the GNOME Bugzilla. Please save the bug to a text file and report it to the appropriate bug tracker for this application.",
+      "tgt": "ପ୍ରୟୋଗ %sଟି ଅଚଳ ହୋଇଯାଇଛି.",
+      "src_chars": 208,
+      "tgt_chars": 25
+    },
+    {
+      "index": 729487,
+      "src": "A sum of Rs.",
+      "tgt": "ଆଭ୍ୟନ୍ତରୀଣ ନିରାପତ୍ତା ଏବଂ ନ୍ୟାୟିକ ପ୍ରଶାସନ ନିମନ୍ତେ 5 ହଜାର 2 ଶହ 9 କୋଟି ଟଙ୍କା ବ୍ୟୟ ବରାଦର ପ୍ରସ୍ତାବ ରଖାଯାଇଅଛି । ଏଥିମଧ୍ୟରେ କାର୍ଯ୍ୟକ୍ରମ ବ୍ୟୟରୁ ନ୍ୟାୟାଳୟ, ଆରକ୍ଷୀ, ଅଗ୍ନିଶମ ସେବା ଏବଂ କାରାଗାର, ଆବାସିକ ଗୃହ, ବାରାକ, ଆରକ୍ଷୀ ଆଧୁନିକୀକରଣ ଓ ସରଞ୍ଜାମ (Equipment) ପାଇଁ 7 ଶହ 61 କୋଟି ଟଙ୍କା ଉଦ୍ଦିଷ୍ଟ ।",
+      "src_chars": 12,
+      "tgt_chars": 272
+    },
+    {
+      "index": 735207,
+      "src": "600 crore from CAMPA fund, Rs.",
+      "tgt": "ତନ୍ମଧ୍ୟରେ CAMPA ପାଣ୍ଠିରୁ 6 ଶହ କୋଟି ଟଙ୍କା, ରାଜ୍ୟର ସବୁଜ ବଳୟ ବୃଦ୍ଧି ଯୋଜନାରେ ବନୀକରଣ ଓ ଏହାର ରକ୍ଷଣାବେକ୍ଷଣ ନିମନ୍ତେ 55 କୋଟି ଟଙ୍କା ଏବଂ JICA ସାହାଯ୍ୟ ପ୍ରାପ୍ତ ପ୍ରକଳ୍ପ ଅଧୀନରେ ଓଡିଶା ଜଙ୍ଗଲ କ୍ଷେତ୍ର ଉନ୍ନୟନ ପ୍ରକଳ୍ପର ଦ୍ବିତୀୟ ପର୍ଯ୍ୟାୟ ପାଇଁ 40 କୋଟି ଟଙ୍କା ବ୍ୟୟବରାଦ ଅନ୍ତର୍ଭୁକ୍ତ ।",
+      "src_chars": 30,
+      "tgt_chars": 256
+    },
+    {
+      "index": 753542,
+      "src": "The following two pages allow you to create such accounts.",
+      "tgt": "ଯଦି ଆପଣଙ୍କ ପାଖରେ SIP କିମ୍ବା H323 ଖାତା ନାହିଁ, ତେବେ ekiga କେବଳ ଆପଣଙ୍କର ଆଭ୍ୟନ୍ତରୀଣ ନେଟୱର୍କରେ ବ୍ୟବହାର ହୋଇପାରିବ (ଆପଣଙ୍କ କମ୍ପାନି ଭିତରେ, ଉଦାହରଣ ସ୍ୱରୂପ)। ଇଣ୍ଟରନେଟ୍‌ରେ ଲୋକମାନଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରିବା ପାଇଁ ଆପଣଙ୍କ ପାଖରେ ଏକ ଖାତା ଥିବା ଉଚିତ। ଅନେକ ୱେବସାଇଟ ଆପଣଙ୍କୁ ଖାତା ନିର୍ମାଣ କରିବା ପାଇଁ ଅନୁମତି ଦେଇଥାଏ। ଆମେ ପରାମର୍ଶ ଦେଇଥାଉ ଯେ ଆପଣ ଏକ ମାଗଣା ekiga.net ଖାତା ବ୍ୟବହାର କରନ୍ତୁ, ଯାହାକି ଆପଣଙ୍କୁ SIP ଖାତା ଦ୍ୱାରା ଯେକୌଣସି ବ୍ୟକ୍ତି ଦ୍ୱାରା ସଂଯୁକ୍ତ କରିବା ପାଇଁ ଅନୁମତି ଦେଇଥାଏ। ଯଦି ଆପଣ ନିୟମିତ ଫୋନ କରିବାକୁ ଚାହାନ୍ତି, ତେବେ ଆମେ ପରାମର୍ଶ ଦେଇଥାଉ ଯେ ଆପଣ ଏକ ଶସ୍ତା ଖାତା କ୍ରୟ କରନ୍ତୁ।",
+      "src_chars": 58,
+      "tgt_chars": 533
+    },
+    {
+      "index": 765045,
+      "src": "Error: %s",
+      "tgt": "ଉପନାମ ‘%s’ ଏବଂ IM ଠିକଣା ବିଶିଷ୍ଟ ସାଙ୍ଗ ପାଇଁ ନୂତନ ସମ୍ପର୍କ ସୃଷ୍ଟି କରିବାରେ ବିଫଳ:",
+      "src_chars": 9,
+      "tgt_chars": 76
+    },
+    {
+      "index": 790272,
+      "src": "For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:",
+      "tgt": "ଶାସ୍ତ୍ର କୁ ହେ :",
+      "src_chars": 123,
+      "tgt_chars": 15
+    },
+    {
+      "index": 794378,
+      "src": "00 crore in 2013-14 to",
+      "tgt": "ସୁତରାଂ 2013-14 ଆର୍ଥିକ ବର୍ଷରେ 100 କୋଟି ଟଙ୍କା ବ୍ୟୟବରାଦ କରାଯାଇଥିବା ବେଳେ 2014-15 ଆର୍ଥିକ ବର୍ଷରେ ଏହାକୁ 330 କୋଟି 10 ଲକ୍ଷ ଟଙ୍କାକୁ ବୃଦ୍ଧି କରାଯାଇଛି । ଗ୍ରାମାଞ୍ଚଳରେ ଇନ୍ଦିରା ଆବାସ ଯୋଜନାରେ 1,60,610 ଘର ନିର୍ମାଣ ପାଇଁ 2014-15 ଆର୍ଥିକ ବର୍ଷରେ 1169 କୋଟି 24 ଲକ୍ଷ ଟଙ୍କା ବ୍ୟୟବରାଦ କରାଯାଇଛି ।",
+      "src_chars": 22,
+      "tgt_chars": 264
+    },
+    {
+      "index": 824095,
+      "src": "The Forum of Regulators was constituted by the Ministry of Power vide notification dated 16th February, 2005 under provisions of section 166(2) of the Electricity Act, 2003 with the primary objective of harmonization of regulations in the power sector framed by the Central Electricity Regulatory Commission (CERC), State Electricity Regulatory Commissions (SERCs) and Joint Electricity Regulatory Commissions (JERCs).",
+      "tgt": "ଚୁକ୍ତି ସ୍ୱାକ୍ଷର/ଶକ୍ତି କ୍ରୟ ରାଜିନାମା",
+      "src_chars": 418,
+      "tgt_chars": 35
+    },
+    {
+      "index": 829834,
+      "src": "For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:",
+      "tgt": "ଶାସ୍ତ୍ର କୁ ହେ :",
+      "src_chars": 133,
+      "tgt_chars": 15
+    },
+    {
+      "index": 834172,
+      "src": "And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, saying, Come, curse me Jacob, and come, defy Israel.",
+      "tgt": "ତହୁଁ ବିଲିଯମ କହିଲେ,",
+      "src_chars": 174,
+      "tgt_chars": 18
+    },
+    {
+      "index": 837582,
+      "src": "Look, 1",
+      "tgt": "୦୦୦ what is that animal with long legs? ଦେଖ୍‌, ଦେଖ୍‌, ସେଇ ଲମ୍ବା ଗୋଡ଼ିଆ ଜନ୍ତୁଟି କ'ଣ ?",
+      "src_chars": 7,
+      "tgt_chars": 84
+    },
+    {
+      "index": 843472,
+      "src": "The burden of the beasts of the south: into the land of trouble and anguish, from whence come the young and old lion, the viper and fiery flying serpent, they will carry their riches upon the shoulders of young asses, and their treasures upon the bunches of camels, to a people that shall not profit them.",
+      "tgt": "ଦକ୍ଷିଣର ପଶୁଗଣଙ୍କ ପ୍ରତି ଦୁଃଖ ବାର୍ତ୍ତା :",
+      "src_chars": 305,
+      "tgt_chars": 38
+    },
+    {
+      "index": 852076,
+      "src": "I propose to provide Rs.",
+      "tgt": "ମୁଖ୍ୟମନ୍ତ୍ରୀ ମହିଳା ସଶକ୍ତିକରଣ ଯୋଜନା ଅନ୍ତର୍ଗତ ମହିଳା ସ୍ଵୟଂସହାୟକ ଗୋଷ୍ଠୀ ଏବଂ ମିଶନ ଶକ୍ତି ଅଧୀନରେ ସେମାନଙ୍କର ସଂଘ ପାଇଁ 550 କୋଟି ଟଙ୍କା ବ୍ୟବସ୍ଥା କରିବାକୁ ମୁଁ ପ୍ରସ୍ତାବ ରଖୁଛି । ଆଇ. ସି. ଡି. ଏସ୍. ର କାର୍ଯ୍ୟକାରିତା ପାଇଁ ଅତିରିକ୍ତ ରାଜ୍ୟ ସହାୟତା ବାବଦରେ 300 କୋଟି ଟଙ୍କାର ବ୍ୟବସ୍ଥା କରୁଛୁ ।",
+      "src_chars": 24,
+      "tgt_chars": 261
+    },
+    {
+      "index": 898452,
+      "src": "It shall maintain liaison with the State Dam Safety Organisations and the owners of dams for standardisation of dam safety related data and practices. It shall provide the technical and managerial assistance to the States and State Dam Safety Organisations. It shall maintain a national level data-base of all dams in the country and the records of major dam failures. It shall examine the cause of any major dam failure. It shall publish and update the standard guidelines and check-lists for the routine inspection and detailed investigations of dams and appurtenances. It shall accord recognition or accreditations to the organisations that can be entrusted with the works of investigation, design or construction of new dams. It will also look into unresolved points of issue between the State Dam Safety Organisation of two states, or between the State Dam Safety Organisation of a State and the owner of a dam in that State, for proper solution. Further, in certain cases, such as dams of one State falling under the territory of another State, the National Authority shall also perform the role of State Dam Safety Organization thereby eliminating potential causes for inter-state conflicts.",
+      "tgt": "–ପ୍ରାଧିକରଣ ଦେଶର ସମସ୍ତ ନଦୀବନ୍ଧଗୁଡ଼ିକର ଜାତୀୟ ସ୍ତରରେ ଡାଟା ବେସ ଏବଂ ପ୍ରମୁଖ ବିଫଳତାର ରେକର୍ଡ ରଖିବ ।",
+      "src_chars": 1198,
+      "tgt_chars": 91
+    },
+    {
+      "index": 972947,
+      "src": "PM Narendra Modi and BJP chief Amit Shah walked in the funeral procession along with thousands of mourners.",
+      "tgt": "ଆଜି ବାଜପେୟୀଙ୍କ ଅନ୍ତିମ ଯାତ୍ରା ସମୟରେ ପ୍ରଧାନମନ୍ତ୍ରୀ ନରେନ୍ଦ୍ର ମୋଦୀଙ୍କ ସମେତ ହଜାର ହଜାର ଲୋକ ପାଦରେ ଚାଲିଚାଲି ସ୍ମୃତି ସ୍ଥଳ ପର୍ଯ୍ୟନ୍ତ ଯାଇଥିଲେ। ମୋଦୀଙ୍କ କ୍ୟାବିନେଟ୍‌ ମନ୍ତ୍ରୀ ଓ ବିଜେପି ରାଷ୍ଟ୍ରୀୟ ଅଧ୍ୟକ୍ଷ ଅମିତ୍‌ ଶାହ ମଧ୍ୟ ଚାଲିଚାଲି ଯାଇଥିଲେ। ଏତେବାଟ ଚାଲିଚାଲି ଯିବା ଅପେକ୍ଷା ଗାଡ଼ିରେ ସେମାନେ ଯାଇପାରିଥାନ୍ତେ। ତେବେ ବରିଷ୍ଠ ସାମ୍ବାଦିକ ତଥା ମୋଦୀଙ୍କ ସହ ଲକ୍ଷ୍ନୌରେ ଅନେକ ସମୟ ରହିଥିବା ଅଖିଳେଶ ବାଜପେୟୀ ଏହାର କାରଣ ସଂପର୍କରେ କହିଛନ୍ତି। ସେ କହିଛନ୍ତି, ଅଟଳ ବିହାରୀ ବାଜପେୟୀ ମଧ୍ୟ ଏଭଳି କରୁଥିଲେ। ଯେଉଁ ବ୍ୟକ୍ତିଙ୍କ ଅନ୍ତିମ ସଂସ୍କାରକୁ ସେ ଯାଇଛନ୍ତି, ଗାଡ଼ିରେ ନୁହେଁ, ବରଂ ପାଦରେ ଚାଲିଚାଲି ଯାଇଛନ୍ତି। ଦିନେ ଲକ୍ଷ୍ନୌର ବିଜେପି ବିଧାୟକ ସତୀଶ ଭାଟିଆଙ୍କ ଅନ୍ତିମ ଯାତ୍ରାରେ ସାମିଲ ହେବା ବେଳେ ବାଜପେୟୀ ଅନେକ ବାଟ ଚାଲିଚାଲି ଯାଇଥିଲେ। ଏହି ସମୟରେ ତାଙ୍କୁ ଗାଡ଼ିରେ ଯିବା ପାଇଁ ନେତାମାନେ ଅନୁରୋଧ କରିଥିଲେ। ସେ କହିଥିଲେ, ଶବଯାତ୍ରା ସମୟରେ କେହି କ’ଣ କେବେ ଗାଡ଼ିରେ ଯାଇପାରିବ। ଏହାପରେ ଚାଲିଚାଲି ଶ୍ମଶାନ ଘାଟ ପର୍ଯ୍ୟନ୍ତ ଯାଇଥିଲେ। ସେଠାରେ ବସି ସମସ୍ତ କ୍ରିୟାକର୍ମରେ ସେ ସାମିଲ ହୋଇଥିଲେ। ଏଭଳି ବିରଳ ବ୍ୟକ୍ତିତ୍ୱର ସେ ଅଧିକାରୀ ଥିଲେ ବୋଲି କୋହଭରା କଣ୍ଠରେ କହିଛନ୍ତି ଅଖିଳେଶ ବାଜପେୟୀ।",
+      "src_chars": 107,
+      "tgt_chars": 931
+    },
+    {
+      "index": 975167,
+      "src": "Congress president Rahul Gandhi hugs Prime Minister Narendra Modi after his speech in the Lok Sabha.",
+      "tgt": "ସଂସଦର ମୌସୁମୀ ଅଧିବେଶନରେ ସରକାରଙ୍କ ବିରୋଧରେ ଆସିଥିବା ଅନାସ୍ଥା ପ୍ରସ୍ତାବ ବେଳେ ଲୋକସଭାରେ ନିଅଯର ବକ୍ତବ୍ୟ ରଖିବା ପରେ କଂଗ୍ରେସ ଅଧ୍ୟକ୍ଷ ରାହୁଲ ଗାନ୍ଧୀ ପ୍ରଧାନମନ୍ତ୍ରୀଙ୍କୁ ଆଲିଙ୍ଗନ କରିଛନ୍ତି | ଏହି ବିରଳ ଘଟଣା ସମଗ୍ର ଦେଶରେ ଭାଇରାଲ ହେବାରେ ଲାଗିଛି | ଏନ୍ଡ଼ିଏ ସରକାର ପ୍ରଧାନମନ୍ତ୍ରୀ ନରେନ୍ଦ୍ର ମୋଦି ଏବଂ ବିଜେପି ରାଷ୍ଟ୍ରୀୟ ଅଧ୍ୟକ୍ଷ ଅମିତ ଶାହଙ୍କୁ କଡା ସମାଲୋଚନା କରିଥିଲେ ରାହୁଲ | ଆଜି ଆକ୍ସନ ମୁଡ଼ରେ ଥିବା ରାହୁଲ କିନ୍ତୁ ନିଜ ବକ୍ତବ୍ୟ ଶେଷ ବେଳକୁ ସାମାନ୍ୟ ଭାବ ପ୍ରବଣ ହୋଇଉଠିଥିଲେ | ମୋଦିଙ୍କ ପ୍ରତି ତାଙ୍କ ମନରେ କୌଣସି ବିଦ୍ବେଷ ନାହିଁ ବୋଲି ରାହୁଲ କହିଥିଲେ | ସେ କହିଥିଲେ ଯେ, ସମସ୍ତଙ୍କୁ ଭଲ ପାଇବା ହେଉଛି କଂଗ୍ରେସର ଶିକ୍ଷା ଓ ପରମ୍ପରା | ଏହି ଗୁଣରେ ସେ ସମସ୍ତଙ୍କୁ ଦୀକ୍ଷିତ କରିବେ | ଏପରିକି ବିଦେଶକୁ ମଧ୍ୟ ଏହି ଗୁଣରେ ଦୀକ୍ଷିତ କରିବା ସହ କଂଗ୍ରେସରେ ରୂପାନ୍ତରିତ କରିବେ | ବକ୍ତବ୍ୟ ସରିବା ପରେ ରାହୁଲ ଦ୍ରୁତ ଗତିରେ ନିଜ ଆସନରୁ ଚାଲିଯାଇ ପ୍ରଧାନମନ୍ତ୍ରୀ ନରେନ୍ଦ୍ର ମୋଦିଙ୍କ ସହ ହାତ ମିଳାଇଥିଲେ | ଏଥିସହ ନିଜ ଆସନରେ ବସିଥିବା ମୋଦିଙ୍କୁ ଅପ୍ରତ୍ୟାଶିତ ଭାବେ ଆଲିଙ୍ଗନ କରି ଗୃହ ବାହାରକୁ ଚାଲିଯାଇଥିଲେ | ଏଭଳି ଆଲିଙ୍ଗନ ବେଳେ ଏକ ଭାବ ପ୍ରବଣତାର ଫଳ ବା ୟା ପଛରେ ସୁଚିନ୍ତିତ ରାଜନୀତି ରହିଛି ତାକୁ ନେଇ ଚର୍ଚ୍ଚା ଆରମ୍ଭ ହୋଇଛି | ଏଭଳି କରିବା ପାଇଁ ରାହୁଲ ଆଗରୁ ଚିନ୍ତା କରି ଆସିଥିଲେ ବୋଲି କୁହାଯାଉଛି |",
+      "src_chars": 100,
+      "tgt_chars": 1025
+    },
+    {
+      "index": 983463,
+      "src": "The film is currently being shot in Jaipur.",
+      "tgt": "ବର୍ତ୍ତମାନ ଜୟପୁରରେ ଚାଲିଛି ଏହି ଚଳଚିତ୍ରର ସୁଟିଂ । ଫଟୋରେ କଙ୍ଗନା ରନାୱତ ରାଣୀ ଲକ୍ଷ୍ମୀବାଇଙ୍କ ଭଳି ଶାଢୀ ପରିଧାନ କରିଥିବା ନଜରକୁ ଆସିଛନ୍ତି । ସେ ହାଲକା ରଂଗର ଶାଢୀ ଓ ନାଲି ବିନ୍ଦି ଲଗାଇଛନ୍ତି , କାନ୍ଧରେ ଏକ ଚେକ୍ ଶାଲ ମଧ୍ୟ ପରିଧାନ କରିଛନ୍ତି । ତାଙ୍କର ପୂର୍ବ ଫିଲ୍ମ ‘ସିମରନ’ ବକ୍ସ ଅଫିସରେ କିଛି ଖାସ୍ ଯାଦୁ ଦେଖାଇ ପାରିନଥିଲା । ତେଣୁ ଏହି ଚଳଚିତ୍ରର ସଫଳତାକକୁ ନେଇ ସେ କଠିନ ପରିଶ୍ରମ କରିଛନ୍ତିି । କିଛି ଦିନ ପୂର୍ବେ ଏହି ଫିଲ୍ମର ଖଣ୍ଡାଯୁଦ୍ଧ ତାଲିମ ଭିଡିଓ ସାମନାକୁ ଆସିଥିଲା ।",
+      "src_chars": 43,
+      "tgt_chars": 411
+    }
+  ]
+}

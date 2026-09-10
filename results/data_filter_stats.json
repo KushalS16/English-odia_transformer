@@ -1,0 +1,20 @@
+{
+  "train": {
+    "before": 40000,
+    "after": 40000,
+    "removed": 0,
+    "retained_ratio": 1.0
+  },
+  "val": {
+    "before": 3000,
+    "after": 3000,
+    "removed": 0,
+    "retained_ratio": 1.0
+  },
+  "test": {
+    "before": 1000,
+    "after": 1000,
+    "removed": 0,
+    "retained_ratio": 1.0
+  }
+}

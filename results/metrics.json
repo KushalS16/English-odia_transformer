@@ -1,0 +1,8 @@
+{
+  "BLEU_greedy": 2.1354922920318775,
+  "BLEU": 2.1354922920318775,
+  "test_examples": 1000,
+  "beam_size": 4,
+  "greedy_eval_seconds": 85.625,
+  "avg_greedy_seconds": 0.0856
+}

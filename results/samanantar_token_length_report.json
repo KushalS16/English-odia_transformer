@@ -1,0 +1,169 @@
+{
+  "total_pairs": 998228,
+  "max_tokens": 126,
+  "source_token_length": {
+    "min": 4,
+    "median": 13.0,
+    "mean": 17.66495630256815,
+    "p90": 34.0,
+    "p95": 44.0,
+    "p99": 72.0,
+    "max": 623
+  },
+  "target_token_length": {
+    "min": 3,
+    "median": 13.0,
+    "mean": 17.072399291544617,
+    "p90": 31.0,
+    "p95": 41.0,
+    "p99": 69.0,
+    "max": 752
+  },
+  "source_over_max_tokens": 1144,
+  "target_over_max_tokens": 885,
+  "either_side_over_max_tokens": 1572,
+  "both_sides_within_limit": 996656,
+  "retained_ratio_if_filtering_at_126": 0.998425209471183,
+  "examples_over_limit": [
+    {
+      "index": 185,
+      "src_tokens": 109,
+      "tgt_tokens": 146,
+      "src": "Rajendra (Auto) College, Bidya Bhushan Sanskrit College, Government Ayurvedic College and Hospital, Government Medical and Hospital, Balangir Law College, Government Womens College, Government Balangir College, College of Teachers Education, Jawaharlal College of Patnagarh, D.A.V. College of Titilagarh, Government Polytechnic, State Institute of Hotel Management (SIHM) etc. are the important Educational Institute of the District.",
+      "tgt": "ଜିଲ୍ଲାର ରାଜେନ୍ଦ୍ର (ସ୍ୱୟମଂ ଶାସିତ) ମହାବିଦ୍ୟାଳୟ, ବିଦ୍ୟା ଭୁଷନ ସଂକୃତ ମହାବିଦ୍ୟାଲୟ, ସରକାରୀ ଭେଷଜ ମହାବିଦ୍ୟାଲୟ ଓ ଚିକିତ୍ସାଳୟ, ସରକାରୀ ଆର୍ୟୁବେଦିକ ମହାବିଦ୍ୟାଲୟ ଓ ଚିକିତ୍ସାଳୟ, ବଲାଙ୍ଗିର ଆଇନ ମହାବିଦ୍ୟାଳୟ, ସରକାରୀ ମହିଲା ମହାବିଦ୍ୟାଲୟ, ବଲାଙ୍ଗିର ସରକାରୀ ମହାବିଦ୍ୟାଲୟ, ଶିକ୍ଷକ ଶିକ୍ଷା ମହାବିଦ୍ୟାଳୟ, ପାଟଣାଗଡ ର ଜବାହାର ଳାଲ ମହାବିଦ୍ୟାଳୟ, ଟିଟିଲାଗଡ ର ଡି.ଏ.ଭି. ମହାବିଦ୍ୟାଳୟ, ସରକାରୀ ବହୁବୃତି ଅନୁଶ୍ଠାନ, ରାଜ୍ୟ ହୋଟେଲ ମ୍ୟାନେଜମେଣ୍ଟ ଅନୁଷ୍ଠାନ (SIHM) ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଶିକ୍ଷାନୁଷ୍ଠାନ ମାନ ଅଛି ଏତତ୍ ବ୍ୟତିତ ଅନେକ ସରକାରି ଓ ବେସରକାରି ଶିକ୍ଷାନୁଷ୍ଠାନ ଗୁଡିକ ଗଢି ଉଠିଛି ।"
+    },
+    {
+      "index": 616,
+      "src_tokens": 110,
+      "tgt_tokens": 132,
+      "src": "\"Sets what code the backspace key generates. Possible values are \"\"ascii-del\"\" for the ASCII DEL character, \"\"control-h\"\" for Control-H (AKA the ASCII BS character), \"\"escape-sequence\"\" for the escape sequence typically bound to backspace or delete. \"\"ascii-del\"\" is normally considered the correct setting for the Backspace key.\"",
+      "tgt": "\"ୟାହା ବି କୋଡ ବ୍ଯାକସ୍ପେସ କି ଉତ୍ପାଦନ କରେ ତାହା ସ୍ଥିର କରେ। ସମ୍ଭାବିତ ମୂଲ୍ଯ ଗୁଡିକ \"\"ascii-del\"\" ASCII DEL ଅକ୍ଷର ପାଇଁ, \"\"ନିଯନ୍ତ୍ରଣ-h\"\" ନିଯନ୍ତ୍ରଣ-H ପାଇଁ (AKA ASCII BS ଅକ୍ଷର), \"\"ଏସ୍କେପ-ଅନୁକ୍ରମ\"\" ବିଲୋପ ଏବଂ ବ୍ଯାକସ୍ପେସ ପାଇଁ ମୌଳିକ ଭାବରେ ବନ୍ଧାୟାଇଥିବା ଏସ୍କେପ ଅନୁକ୍ରମ ପାଇଁ \"\"ascii-del\"\" ସାମାନ୍ଯତଃ ବ୍ଯାକସ୍ପେସ କି ପାଇଁ ସଠିକ ସେଟିଙ୍ଗ ଭାବରେ ବିଚାର କରାୟାଏ।\""
+    },
+    {
+      "index": 906,
+      "src_tokens": 147,
+      "tgt_tokens": 156,
+      "src": "\"Ministry of Tourism Ministry of Tourism brings centuries old crafts of Mysuru through webinar titled Mysuru : Craft Caravan of Karnataka under \"\"Dekho Apna Desh\"\" series To showcase Indias rich handicraft heritage and make it accessible for the visitors and tourist to experience, Ministry of Tourisms Dekho Apna Desh Webinar Mysuru : Craft Caravan of Karnataka offered an immersive tour of crafts forms namely ChannapatnaToys , Rosewood inlay craft that have been thriving for centuries around the city of Mysuru.\"",
+      "tgt": "ପର୍ଯ୍ୟଟନ ମନ୍ତ୍ରଣାଳୟ ପର୍ଯ୍ୟଟନ ମନ୍ତ୍ରଣାଳୟ 'ଦେଖୋ ଅପନା ଦେଶ' ଶୃଙ୍ଖଳା ଅନ୍ତର୍ଗତ 'ମୈସୁର : କର୍ଣ୍ଣାଟକର ହସ୍ତ ଶିଳ୍ପର ବୈଭବ' ନାମକ ଏକ ୱେବିନାର ମାଧ୍ୟମରେ ମୈସୁରର ଶତାବ୍ଦୀ ପୁରୁଣା କାରିଗରୀକୁ ପରିଚିତ କରାଇଲା ଭାରତର ସମୃଦ୍ଧ ହସ୍ତତନ୍ତ ଐତିହ୍ୟକୁ ପ୍ରଦର୍ଶନ କରିବା ଏବଂ ପର୍ଯ୍ୟଟକ ତଥା ପର୍ଯ୍ୟଟକଙ୍କୁ ଏହାର ଅନୁଭବ କରାଇବା ପାଇଁ ପର୍ଯ୍ୟଟନ ମନ୍ତ୍ରଣାଳୟ 'ଦେଖୋ ଅପନା ଦେଶ' ଶୃଙ୍ଖଳାରେ 'ମୈସୁର : କର୍ଣ୍ଣାଟକର କ୍ରାଫ୍ଟ କାରାଭାନ୍' ଶୀର୍ଷକ ଏକ ୱେବିନାର ଆରମ୍ଭ କରିଛି। ଏହା ମାଧ୍ୟମରେ ମୈସୁର ସହର ଆଖପାଖରେ ଶତାବ୍ଦୀ ଶତାବ୍ଦୀ ଧରି ପ୍ରଷ୍ପୁଟିତ ହୋଇ ଉଠିଥିବା ଚାନ୍ନାପାଟନା ଖେଳନା,ରୋଜୱୁଡ୍ ଇନଲେ କ୍ରାଫ୍ଟ ନାମକ ଶିଳ୍ପର ଏକ ଚିତ୍ତାକର୍ଷକ ଯାତ୍ରା ପ୍ରଦାନ କରିଥିଲା।"
+    },
+    {
+      "index": 1203,
+      "src_tokens": 155,
+      "tgt_tokens": 142,
+      "src": "Royal Challengers Bangalore: Kohli, AB de Villiers , Sarfaraz Khan, Brendon McCullum , Chris Woakes, Collin de Greandhomme, Moeen Ali, Quinton de Kock, Umesh Yadav , Yuzvendra Chahal, Manan Vohra, Kulwant Khejroliya, Aniket Choudhary, Navdeep Saini, Murugan Ashwin, Mandeep Singh, Washington Sundar, Pawan Nagi, Mohammed Siraj, Corey Anderson, Tim Southee, Parthiv Patel, Aniruddha Joshi, Pavan Deshpande",
+      "tgt": "ରୟାଲ ଚାଲେଞ୍ଜର୍ସ ବାଙ୍ଗାଲୋର: ବିରାଟ କୋହଲି, ଏବି ଡିଭିଲିୟର୍ସ, ସର୍ଫରାଜ ଖାନ୍‌, ବ୍ରେଣ୍ଡନ ମ୍ୟାକଲମ୍‌, କ୍ରିସ୍‌ ଓକ୍ସ, କଲିନ୍‌ ଡି ଗ୍ରାଣ୍ଢୋମେ, ମୋଇନ ଅଲ୍ଲୀ, କ୍ୱିଣ୍ଟନ ଡି’ କକ୍‌, ଉମେଶ ଯାଦବ, ୟୁଜବେନ୍ଦ୍ର ଚହଲ, ମନନ ଭୋରା, କୁଲବନ୍ତ ଖେଜ୍ରୋଲିଆ, ଅଙ୍କିତ ଚୌଧୁରୀ, ନଭଦୀପ ସାଇନି, ଏମ୍‌ ଅଶ୍ୱିନ, ମନଦୀପ ସିଂହ, ଓ୍ଵାସିଂଟନ ସୁନ୍ଦର, ପବନ ନେଗୀ, ସିରାଜ ଖାନ୍‌, ନାଥନ କୁଲଟର ନାଇଲ୍‌, ଟିମ୍‌ ସାଉଦି, ପାର୍ଥିବ ପଟେଲ, ଅନିରୁଦ୍ଧ ଯୋଶୀ, ପବନ ଦେଶପାଣ୍ଡେ।"
+    },
+    {
+      "index": 2302,
+      "src_tokens": 137,
+      "tgt_tokens": 80,
+      "src": "The MoU covers the following areas of cooperation:- Exchange training of medical doctors, officials, other health professionals and experts Assistance in development of human resources, health services and setting up of health care facilities Short term training of human resources in health Regulation of pharmaceuticals, medical devices and exchange of information Promotion of business development opportunities in pharmaceuticals and others identified by parties Procurement of generic and essential drugs and assistance in sourcing of drug supplies Procurement of health equipment and pharmaceutical products Any other area of cooperation as may be mutually decided upon.",
+      "tgt": "ଦୀନଦୟାଲ ଅନ୍ତ୍ୟୋଦୟ ଯୋଜନା-ଜାତୀୟ ଗ୍ରାମୀଣ ଜୀବିକା ମିଶନ ଦୀନଦୟାଲ ଅନ୍ତ୍ୟୋଦୟ ଯୋଜନା-ଜାତୀୟ ଗ୍ରାମୀଣ ଜୀବିକା ମିଶନ (ଡିଏୱାଇ-ଏନଆରଏଲଏମ) 8-9 କୋଟି ଗ୍ରାମୀଣ ଗରିବ ପରିବାରଙ୍କ ପାଖରେ ପହଂଚିବା ଏବଂ ପ୍ରତ୍ୟେକ ପରିବାର ଜଣେ ମହିଳା ସଦସ୍ୟଙ୍କୁ ରୋଜଗାର ଭିତ୍ତିକ ଗ୍ରାମୀଣ ସ୍ତରରେ ସଂଗଠିତ ଭାବେ ମହିଳା ଏସଏଚଜି ଏବଂ ମହାସଙ୍ଘରେ ସାମିଲ କରିବାର ପ୍ରୟାସ ଜାରି ରଖିଛି ।"
+    },
+    {
+      "index": 3513,
+      "src_tokens": 298,
+      "tgt_tokens": 335,
+      "src": "Benin, Brazil, Burkina Faso, Cambodia, Chile, Costa Rica, Democratic Republic of Congo, Comoros, Cote dIvoire, Djibouti, Cuba, Dominican Republic, Ethiopia, Equatorial Guiana, Fiji, France, Gabonese Republic, Ghana, Guinea, Guinea Bissau, India, Kiribati, Liberia, Madagascar, Malawi, Mali, Mauritius, Nauru, Niger, Nigeria, Peru, Rwanda, Senegal, Seychelles, Somalia, South Sudan, Sudan, Tanzania, Tonga, Togolese Republic, Tuvalu, UAE, Vanuatu, and Venezuela Ratifying Countries (19) India, France, Australia, Bangladesh, Comoros, Cuba, Fiji, Guinea, Ghana, Malawi, Mali, Mauritius, Nauru, Niger, Peru, Seychelles, Somalia, South Sudan, and Tuvalu ISA Interim Secretariat has been operational as a de-facto organization since 25th January, 2016.",
+      "tgt": "ଏହାର ମୂଳ ସହମତି ପତ୍ରରେ 46ଟି ଦେଶ ଦସ୍ତଖତ କରି ସାରିଥିବା ବେଳେ 19 ଟି ଦେଶ ଏହାକୁ ଅନୁମୋଦନ ଦେଇ ସାରିଛନ୍ତି । ଦସ୍ତଖତ କରିଥିବର 46ଟି ଦେଶ ହେଲେ: ଅଷ୍ଟ୍ରେଲିଆ, ବାଂଲାଦେଶ, ବେନିନ୍, ବ୍ରାଜିଲ, ବୁର୍କିନା ଫାସୋ, କାମ୍ବୋଡିଆ, ଚିଲି, କୋଷ୍ଟାରିକା, ଡେମୋକ୍ରାଟିକ୍ ରିପବ୍ଲିକ ଅଫ୍ କଙ୍ଗୋ, କୋମୋରୋସ୍, କୋଟୋ ଦି’ ଆଇଭରି, ଜିବୌତି, କ୍ୟୁବା, ଡୋମିନିକାନ ରିପବ୍ଲିକ୍, ଇଥିଓପିଆ, ଇକ୍ୱୋଟୋରିଆଲ ଗିନି, ଫିଜି, ଫ୍ରାନ୍ସ, ଗାବୋନିଜ୍ ରିପବ୍ଲିକ୍, ଘାନା, ଗିନି, ଗିନି ବିସାଓ, ଭାରତ, କିରିବାତି, ଲାଇବେରିଆ, ମାଡ଼ାଗାସ୍କର, ମାଲାୱି, ମାଲି, ମରିସସ୍, ନାଉରୁ, ନାଇଜର, ନାଇଜେରିଆ, ପେରୁ, ର୍ୱାଣ୍ଡା, ସେନେଗାଲ, ସିସିଲ୍ସ, ସୋମାଲିଆ, ଦକ୍ଷିଣ ସୁଦାନ, ସୁଦାନ, ତାଞ୍ଜାନିଆ, ତୋଙ୍ଗା, ତୋଗୋଲିସ୍ ରିପବ୍ଲିକ୍, ତୁଭାଲୁ, ୟୁଏଇ, ଭାନୁଆତୁ ଏବଂ ଭେନେଜୁଏଲା । ଅନୁମୋଦନ ଦେଇଥିବା 19ଟି ଦେଶ: ଭାରତ, ଫ୍ରାନ୍ସ, ଅଷ୍ଟ୍ରେଲିଆ, ବାଂଲାଦେଶ, କୋମୋରୋସ୍, କ୍ୟୁବା, ଫିଜି, ଗିନି, ଘାନା, ମାଲାୱି, ମାଲି, ମରିସସ୍, ନାଉରୁ, ନାଇଜର, ପେରୁ, ସିସିଲ୍ସ, ସୋମାଲିଆ, ଦକ୍ଷିଣ ସୁଦାନ ଏବଂ ତୁଭାଲୁ ।"
+    },
+    {
+      "index": 3737,
+      "src_tokens": 41,
+      "tgt_tokens": 158,
+      "src": "Brahmapur MP Chandra Sekhar Sahu and MLA Bikram Panda and Ganjam district Collector Vijay Amruta Kulange and CDMO Dr Bijay Kumar Panigrahi attended as guests and inaugurated the centre.",
+      "tgt": "ଏହି କାର୍ଯ୍ୟକ୍ରମରେ ମୁଖ୍ୟ ଅତିଥି ଭାବେ ଗଞ୍ଜାମ ଜିଲ୍ଲାପାଳ ବିଜୟ ଅମୃତ କୁଲାଙ୍ଗେ ଓ ବ୍ରହ୍ମପୁର ସାଂସଦ ଚନ୍ଦ୍ରଶେଖର ସାହୁ, ଗୋପାଳପୁର ବିଧାୟକ ପ୍ରଦୀପ କୁମାର ପାଣିଗ୍ରାହୀ, ବ୍ରହ୍ମପୁର ବିଧାୟକ ବିକ୍ରମ କୁମାର ପଣ୍ଡା, ଡଃ ପି ସି ସାହୁ, ଡଃ ଏନ୍ ସି ପାଢି, ଗଞ୍ଜାମ ସିଡିଏମଓ ବିଜୟ କୁମାର ପାଣିଗ୍ରାହୀ, ଡଃ କେ. କେ ପାଣିଗ୍ରାହୀ, ଡଃ ସୁନିଲ କୋଟା, ଗଞ୍ଜାମ ଜିଲ୍ଲା ବରିଷ୍ଠ ନାଗରିକ ସଭାପତି ରାସବିହାରି ଦାସ, ଡିଏସଏସଓ/ଏସଏସଏସଓ କଲ୍ୟାଣି ଦାସ, ଛତ୍ରପୁର, ମଞ୍ଚାସିନ ଥିଲେ ଓ ଫୋରମର ସଂପାଦକ ସିମାଞ୍ଚଳ ପ୍ରଶାଦ ବିଷୋୟୀ, ସୂର୍ଯ୍ୟ କାନ୍ତ ପାତ୍ର, ଭିଷ୍ମାଚାର୍ଯ୍ୟ ଚୌଧୁରୀ, ପ୍ରଶାନ୍ତ କୁମାର ମହାପାତ୍ର, ଭାସ୍କର ବେହେରା, ପୂର୍ଣଚନ୍ଦ୍ର ମହିରଣା, ବାସୁଦେବ ଲିମା, ଅତିଥି ମାନଙ୍କୁ ପୁଷ୍ପଗୁଛ ଦେଇ ସ୍ୱାଗତ କରାଯାଇଥିଲା ।"
+    },
+    {
+      "index": 4907,
+      "src_tokens": 136,
+      "tgt_tokens": 62,
+      "src": "The Minister also met members of India-South Africa CEOs forum who expressed confidence in the Government of Indias efforts to strengthen India-Africa relations and pledged their support in furthering these relations Suresh Prabhu also met ministers from Southern Africa Development Community (SADC) and participated in the India-SADC Dialogue attended by ministers and business leaders who pledged their effort for achieving prosperity through trade, investment and economic cooperation The Minister addressed the plenary session of the Summit and talked about building synergies between India and South Africa which are united by legacy and unified for prosperity.",
+      "tgt": "ମନ୍ତ୍ରୀ ଭାରତ-ଦକ୍ଷିଣ ଆଫ୍ରିକା ସିଇଓ ଫୋରମର ସଦସ୍ୟମାନଙ୍କୁ ମଧ୍ୟ ଭେଟିଥିଲେ ଯେଉଁମାନେ କି ଭାରତ-ଦକ୍ଷିଣ ଆଫ୍ରିକା ସମ୍ବନ୍ଧକୁ ମଜଭୁତ କରିବା ପାଇଁ ଭାରତ ସରକାରଙ୍କ ଦ୍ୱାରା ଗ୍ରହଣ କରାଯାଇଥିବା ପ୍ରୟାସ ଉପରେ ସମ୍ପୂର୍ଣ୍ଣ ଭରସା ପ୍ରକାଶ କରିଥିଲେ ଏବଂ ଏହି ସମ୍ବନ୍ଧକୁ ଆଗକୁ ବଢ଼ାଇବା ପାଇଁ ନିଜ ତରଫରୁ ସମ୍ପୂର୍ଣ୍ଣ ସମର୍ଥନ ପ୍ରଦାନ କରିବା ନେଇ ପ୍ରତିବଦ୍ଧତା ପ୍ରକାଶ କରିଥିଲେ ।"
+    },
+    {
+      "index": 6031,
+      "src_tokens": 61,
+      "tgt_tokens": 177,
+      "src": "The territories specified in section 10 of the States Reorganisation Act, 1956 [but excluding the territories specified in the First Schedule to the Rajasthan and Madhya Pradesh (Transfer of Territories) Act, 1959].",
+      "tgt": "ରାଜ୍ୟପୁନର୍ଗଠନ ଅଧିନିୟମ, ୧୯୫୬ ର ଧାରା ୧୧ ରେ ବିନିର୍ଦ୍ଦିଷ୍ଟ ରାଜ୍ୟକ୍ଷେତ୍ର ଏବଂ ଅର୍ଜିତ ରାଜ୍ୟକ୍ଷେତ୍ର ବିଲୟନ), ଅଧିନିୟମ, ୧୯୬୦ ର ପ୍ରଥମ ଅନୁସୂଚୀର ଭାଗ ୨ ରେ ନିର୍ଦ୍ଦିଷ୍ଟ ରାଜ୍ୟକ୍ଷେତ୍ର ମାନ, କିନ୍ତୁ ସବିଧାନ (ନବମ ସଂଶୋଧନ) ଅଧିନିୟମ, ୧୯୬୦ ର ପ୍ରଥମ ଅନୁସୂଚୀର ଭାଗ ୨ ରେ ନିର୍ଦ୍ଦିଷ୍ଟ ରାଜ୍ୟକ୍ଷେତ୍ର ଏବଂ ପଞ୍ଜାବ ପୁନର୍ଗଠନ ଅଧିନିୟମ, ୧୯୬୬ ର ଧାରା ୩ ର ଉପଧାରା (୧) ରେ, ଧାରା ୪ ରେ ଓ ଧାରା ୫ ର ଉପଧାରା (୧) ରେ ବିନିର୍ଦ୍ଦିଷ୍ଟ ରାଜ୍ୟକ୍ଷେତ୍ରମାନ ତହିଁରୁ ଅପବର୍ଜିତ ଅଟେ । ରାଜ୍ୟପୁନର୍ଗଠନ ଅଧିନିୟମ, ୧୯୫୬ ର ଧାରା ୧୦ ରେ ବିନିର୍ଦ୍ଦିଷ୍ଟ ରାଜ୍ୟକ୍ଷେତ୍ର ମାନ, କିନ୍ତୁ ରାଜସ୍ଥାନ ଓ ମଧ୍ୟପ୍ରଦେଶ ରାଜ୍ୟକ୍ଷେତ୍ର ଅନ୍ତରଣ) ଅଧିନିୟମ, ୧୯୫୯ ର ପ୍ରଥମ ଅନୁସୂଚୀରେ ବିନିର୍ଦ୍ଦିଷ୍ଟ ରାଜ୍ୟକ୍ଷେତ୍ର ତହିଁରୁ ଅପବର୍ଜିତ ଅଟେ ।"
+    },
+    {
+      "index": 6668,
+      "src_tokens": 28,
+      "tgt_tokens": 145,
+      "src": "Our squad attacked the train in two groups, one led by G.D. Bapu Lad, the other by myself.",
+      "tgt": "“ଦୁଇଟି ଗୋଷ୍ଠୀରେ ବିଭକ୍ତ ହୋଇ ଆମ ସ୍କ୍ୱାର୍ଡ ଟ୍ରେନ୍ ଉପରେ ଆକ୍ରମଣ କରିଥିଲେ, ଗୋଟିଏର ନେତୃତ୍ୱ ନେଉଥିଲେ ଜି.ଡି ବାପୁ ଲାଡ୍ ଅନ୍ୟଟିର ନେତୃତ୍ୱ ନେଉଥିଲି ମୁଁ। ଠିକ୍ ଯେଉଁଠି ଆମେ ଛିଡା ହୋଇଛନ୍ତି, ଏହିଠାରେ ରେଳଧାରଣାରେ ପଥର ରଖି ଆମେ ଟ୍ରେନ୍ ଅଟକାଇଦେଲୁ। ତା ପରେ ତା ପଛରେ ଆମେ ବୋଲଡର ରଖିଦେଲୁ, ଫଳରେ ତାହା ଯେମିତି ପଛକୁ ଯାଇପାରିବ ନାହିଁ। ଆମ ପାଖରେ କୌଣସି ଗୋଳାବାରୁଦ ନ ଥିଲା, କୌଣସି ଅସ୍ତ୍ରଶସ୍ତ୍ର ନ ଥିଲା, କେବଳ ଥିଲା ଦାଆ, ଲାଠି ଏବଂ ଯୋଡାଏ ଖଣ୍ଡେ ଅନିଶ୍ଚିତ ଦେଶୀ ‘ବୋମା’। ମୁଖ୍ୟ ଗାର୍ଡ ପାଖରେ ଗୋଟିଏ ବନ୍ଧୁକ ଥିଲା, କିନ୍ତୁ ସେ ଭୟଭୀତ ହୋଇଯାଇଥିଲା ଏବଂ ସହଜରେ ନିୟନ୍ତ୍ରଣକୁ ଆସିଗଲା। ଆମେ ଜଞ୍ଜିର ଓ ପେଞ୍ଚ ବାହାର କରିଦେଲୁ।”"
+    },
+    {
+      "index": 6898,
+      "src_tokens": 166,
+      "tgt_tokens": 158,
+      "src": "The highlights of the Agreement are: - Indian pilgrims of all faiths and persons of Indian origin can use the corridor The travel will be Visa Free Pilgrims need to carry only a valid passport Persons of Indian Origin need to carry OCI card along with the passport of their country The Corridor is open from dawn to dusk. Pilgrims travelling in the morning will have to return on the same day The Corridor will be operational throughout the year, except on notified days, to be informed in advance Pilgrims will have a choice to visit as individuals or in groups, and also to travel on foot India will send the list of pilgrims to Pakistan 10 days ahead of travel date.",
+      "tgt": "ବୁଝାମଣାର ମୁଖ୍ୟାଂଶ ନିମ୍ନରେ ପ୍ରଦାନ କରାଗଲା:- ଭାରତୀୟ ବଂଶୋଦ୍ଭବ ସବୁ ଧର୍ମ ଓ ବର୍ଣ୍ଣର ଭାରତୀୟ ତୀର୍ଥଯାତ୍ରୀ ଏହି କରିଡରର ଉପଯୋଗ କରିପାରିବେ. ଯାତ୍ରା ଭିସା ମୁକ୍ତ ହେବ. ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ କେବଳ ଏକ ବୈଧ ପାସପୋର୍ଟ ନେବାର ଆବଶ୍ୟକତା ରହିଛି. ଭାରତୀୟ ବଂଶୋଦ୍ଭବ କୌଣସି ବ୍ୟକ୍ତି ନିଜ ଦେଶର ପାସପୋର୍ଟ ସହିତ ଓସିଆଇ କାର୍ଡ ସାଙ୍ଗରେ ନେବାର ଆବଶ୍ୟକତା ରହିଛି. କରିଡର ସକାଳୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲିବ, ସକାଳୁ ଯାତ୍ରା କରିଥିବା ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ ସେହିଦିନ ଫେରିବାକୁ ପଡିବ. ଆଗୁଆ ସୂଚିତ ହେବାକୁ ଥିବା ଅଧିସୂଚିତ ଦିନଗୁଡ଼ିକୁ ବାଦ ଦେଇ କରିଡର ବର୍ଷତମାମ ଚାଲୁ ରହିବ ଯାହାର ସୂଚନା ପୂର୍ବରୁ ଦିଆଯିବ. ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ ଏକାକୀ କିମ୍ବା ଦଳବଦ୍ଧ ହୋଇ ଯିବା ପାଇଁ ସୁବିଧା ମିଳିବ, ପାଦ ଚାଲି ଯାତ୍ରା କରିବାର ବିକଳ୍ପ ମଧ୍ୟ ରହିବ. ଭାରତ ଯାତ୍ରା ତାରିଖର 10 ଦିନ ପୂର୍ବରୁ ତୀର୍ଥଯାତ୍ରୀଙ୍କ ତାଲିକା ପାକିସ୍ତାନକୁ ପଠାଇବ ।"
+    },
+    {
+      "index": 7664,
+      "src_tokens": 209,
+      "tgt_tokens": 150,
+      "src": "Prime Minister's Office English rendering of Prime Ministers Address at Rashtriya Jan Jagriti Dharm Sammelan The Reverend Shri ShailJagadguruMahaswamiJi, Shri IshwarPanditaradhyaShivachar Swami Ji, Shri Gauri Shankar Shivachar Swami Ji, Shri RenukaShivachar Swami Ji, Shri SugureshwaraShivachar Swami Ji, Shri Doctor RajshekharShivachar Swami Ji, the Reverend Shri Shiv Kumar Swami Ji, Shri Varalinga Swami Ji, saints from all over the country who are present here in Shrishailam, devotees, ladies and gentleman, and my colleague and the most popular leader in Karnataka Shri B. S. YeddyuruppaJi, First of all my best wishes to all of you for the Ugadi festival.",
+      "tgt": "Prime inister's Office ରାଷ୍ଟ୍ରୀୟ ଜନ ଜାଗୃତି ଧର୍ମ ସମ୍ମେଳନକୁ ପ୍ରଧାନମନ୍ତ୍ରୀଙ୍କ ସମ୍ବୋଧନ ପରମ ଶ୍ରଦ୍ଧେୟ ଶ୍ରୀ ଶୈଳ ଜଗଦଗୁରୁ ମହାସ୍ୱାମୀ ମହୋଦୟ, ଶ୍ରୀ ଇଶ୍ୱର ପଣ୍ଡିତ ଆରାଧ୍ୟ ଶିବାଚାର ସ୍ୱାମୀ ମହୋଦୟ, ଶ୍ରୀ ଗୌରୀଶଙ୍କର ଶିବାଚାର ସ୍ୱାମୀ ମହୋଦୟ, ଶ୍ରୀ ରେଣୁକା ଶିବାଚାର ସ୍ୱାମୀ ମହୋଦୟ, ଶ୍ରୀ ସୁଗୁରେଶ୍ୱର ଶିବାଚାର ସ୍ୱାମୀ ମହୋଦୟ, ଶ୍ରୀ ଡଃ ରାଜଶେଖର ଶିବାଚାର ସ୍ୱାମୀ ମହୋଦୟ, ପୁଜ୍ୟ ଶ୍ରୀ ଶିବକୁମାର ସ୍ୱାମୀ ମହୋଦୟ, ଶ୍ରୀ ବରଲିଙ୍ଗା ସ୍ୱାମୀ ମହୋଦୟ, ଶ୍ରୀଶୈଳମରେ ଉପସ୍ଥିତ ଏବଂ ସମଗ୍ର ଦେଶରୁ ଆସିଥିବା ସନ୍ଥ ସମାଜ, ଭକ୍ତଗଣ, ଦେବୀ, ସଜ୍ଜନମଣ୍ଡଳୀ ଏବଂ କର୍ଣ୍ଣାଟକର ସର୍ବାଧିକ ଲୋକପ୍ରିୟ ନେତା ଏବଂ ମୋର ସହଯୋଗୀ ଶ୍ରୀ ବି.ଏସ. ୟେଦୁୟେରାପ୍ପା ମହୋଦୟ ।"
+    },
+    {
+      "index": 7700,
+      "src_tokens": 134,
+      "tgt_tokens": 92,
+      "src": "Delhi Capitals: Shreyas Iyer (Captain), Prithvi Shaw, Shikhar Dhawan, Rishabh Pant (WK), Shimron Hetmyer, Marcus Stoinis, Harshal Patel, Axar Patel, Ravichandran Ashwin, Kagiso Rabada, Anrich Nortje, Ishant Sharma, Ajinkya Rahane, Mohit Sharma, Alex Carey, Avesh Khan, Sandeep Lamichhane, Keemo Paul, Tushar Deshpande, Daniel Sams, Lalit Yadav",
+      "tgt": "ଦିଲ୍ଲୀ: ଶ୍ରେୟମ ଆୟର(ଅଧିନାୟକ), ରିଷଭ ପନ୍ତ(ୱିକେଟ କିପର), ପୃଥ୍ୱୀ ଶ, ଅମିତ ମିଶ୍ରା, ଉବେଶ ଖାନ, ହର୍ଷଲ ପଟେଲ, ରାହୁଲ ତେବତିୟା, ଜୟନ୍ତ ଯାଦବ, ମନଜୋତ କାଲରା, କାର୍ଲିନ ମୁନରୋ, କ୍ରିସ୍‌ ମୋରିସ, ଶିଖର ଧାୱନ, ଟ୍ରେଟ୍‌ ବୋଲ୍ଟ, ଅକ୍ସର ପଟେଲ ଭଳି ବହୁ ଅନୁଭବୀ ଖେଳାଳି ଦିଲ୍ଲୀ ପାଖରେ ରହିଛନ୍ତି ।"
+    },
+    {
+      "index": 8191,
+      "src_tokens": 161,
+      "tgt_tokens": 57,
+      "src": "The Khorda District AILU elected its office-bearers having Suresh Chandra Routray as president, Susanta Kumar Das as vice-president Sangeeta Pattanaik as general secretary, Dipti Prasad Nanda as assistant secretary, Kharabel Aier as treasurer, Krushnaballav Mohanty as working committee member and Mrugankhya Pattnaik, Debendranath Swain, Lina Pattnaik, Sandhyarani Swain, Sasmita Das, Nilamani Praharaj, Banoj Mohanty, Paresh Mohanty, Pramod Das, Saroj Mishra as executive committee and Manas Ranjan Mohapatra, Ajit Das, and Sidhartha Das as advisory committee members.",
+      "tgt": "ସର୍ବଶ୍ରୀ ସୁରେଶ ଚନ୍ଦ୍ର ରାଉତରାୟ ଖୋର୍ଦ୍ଧାଶାଖାର ସଭାପତି ଭାବରେ ନିର୍ବାଚିତ ହୋଇଥିଲାବେଳେ ସୁଶାନ୍ତ କୁମାର ଦାସ ଉପସଭାପତି, ଶ୍ରୀମତୀ ସଂଗୀତା ପଟ୍ଟନାୟକ- ସାଧାରଣ ସଂପାଦିକା ଓ ଦୀପ୍ତି ପ୍ରସାଦ ନନ୍ଦ- ସହକାରୀ ସଂପାଦକ, ଖାରବେଳ ଐର କୋଷାଧ୍ୟକ୍ଷ ଭାବେ ନିର୍ବାଚିତ ହୋଇଛନ୍ତି ।"
+    },
+    {
+      "index": 9709,
+      "src_tokens": 130,
+      "tgt_tokens": 64,
+      "src": "Ministry of Road Transport Highways Mou Signed Between WAPCOS and Doppelmayr for End-To-End Solutions for Passenger Ropeway Projects Shri Nitin Gadkari Says, Ropeways and Cable Cars are the Future of Indian Transport, Especially in Hilly Terrains and Congested Cities Union Minister for Road Transport Highways, Shipping, Water Resources, River Development and Ganga Rejuvenation Shri Nitin Gadkari has said that the country needs futuristic technology for developing its transport sector.",
+      "tgt": "ସଡକ ପରିବହନ ଓ ରାଜପଥ ମନ୍ତ୍ରଣାଳୟ ଯାତ୍ରୀ ରୋପୱେ ପରିକଳ୍ପନାର ସମାଧାନ ପାଇଁ ୱାପକୋସ ଏବଂ ଡୋପଲମେର ମଧ୍ୟରେ ରାଜିନାମା ସ୍ୱାକ୍ଷରିତ ଦେଶର ପରିବହନ କ୍ଷେତ୍ରର ବିକାଶ ପାଇଁ ଉନ୍ନତ ଟେକ୍ନୋଲୋଜି ଆବଶ୍ୟକ ଅଛି ବୋଲି କହିଛନ୍ତି କେନ୍ଦ୍ର ସଡ଼କ ପରିବହନ ଏବଂ ରାଜପଥ, ଜଳସମ୍ପଦ, ନଦୀ ବିକାଶ ତଥା ଗଙ୍ଗା ସଂରକ୍ଷଣ ମନ୍ତ୍ରୀ ନୀତିନ ଗଡ଼କରି ।"
+    },
+    {
+      "index": 10112,
+      "src_tokens": 138,
+      "tgt_tokens": 112,
+      "src": "Ministry of Health and Family Welfare Dr. Harsh Vardhan launches the AYUSH Sanjivani App and inter-disciplinary studies involving AYUSH interventions for COVID 19 The alliance between technology stakeholders will help the traditional knowledge of AYUSH to reach a large global population Highlighting the importance of harnessing technology for COVID-19 response, the Union Health Minister said The AYUSH Sanjivani mobile app, which has been launched today, will help to generate data on acceptance and usage of AYUSH advocacies and measures among the population and its impact in prevention of COVID 19.",
+      "tgt": "ସ୍ୱାସ୍ଥ୍ୟ ଓ ପରିବାର ମନ୍ତ୍ରଣାଳୟ ଆୟୁଷ ସଞ୍ଜିବନୀ ଆପ ଓ କୋଭିଡ-19 ପାଇଁ ଆୟୁଷ ହସ୍ତକ୍ଷେପ ନିମନ୍ତେ ଆନ୍ତଃବିଭାଗୀୟ ଗବେଷଣାର ଶୁଭାରମ୍ଭ କଲେ ଡ. ହର୍ଷ ବର୍ଦ୍ଧନ ପ୍ରଯୁକ୍ତି ଅଂଶୀଦାରଙ୍କ ମଧ୍ୟରେ ସହଯୋଗ ଫଳରେ ଆୟୁଷର ପାରମ୍ପରିକ ଜ୍ଞାନ ବ୍ୟାପକ ବିଶ୍ୱ ଜନସଂଖ୍ୟା ନିକଟରେ ପହଞ୍ଚି ପାରିବ : ଡ. ହର୍ଷ ବର୍ଦ୍ଧନ କେନ୍ଦ୍ର ସ୍ୱାସ୍ଥ୍ୟ ଓ ପରିବାର କଲ୍ୟାଣ ମନ୍ତ୍ରୀ ଡ. ହର୍ଷ ବର୍ଦ୍ଧନ ଆଜି ‘ଆୟୁଷ ସଞ୍ଜିବନୀ’ ଆପ ଏବଂ କୋଭିଡ-19 ସଂକ୍ରାନ୍ତ ଦୁଇଟି ଆୟୁଷ ଆଧାରିତ ଗବେଷଣାର ବିଧିବଦ୍ଧ ଶୁଭାରମ୍ଭ କରିଛନ୍ତି । ଏହି ଅବସରରେ ଆୟୁଷ ରାଷ୍ଟ୍ରମନ୍ତ୍ରୀ ଶ୍ରୀ ଶ୍ରୀପଦ ୟଶୋ ନାଏକ ଗୋଆରୁ ଭିଡିଓ କନଫରେନ୍ସ ଜରିଆରେ ଅଂଶଗ୍ରହଣ କରିଥିଲେ।"
+    },
+    {
+      "index": 13061,
+      "src_tokens": 149,
+      "tgt_tokens": 100,
+      "src": "Ministry of Minority Affairs Union Minister for Minority Affairs Shri Mukhtar Abbas Naqvi Chairs Meeting of Newly Constituted Central WAF Council Central WAF Council Observed Two-Minute Silence to Pay Tributes to Security Force Personnel who were Martyred in Terrorist Attack in Pulwama Union Minister for Minority Affairs Shri Mukhtar Abbas Naqvi today said here that for the first time since the Independence, the Central Government has been providing 100 per cent financial help to utilise Waqf properties across the country for educational empowerment and job-oriented skill development of the needy sections of the society.",
+      "tgt": "ସଂଖ୍ୟାଲଘୁ ବ୍ୟାପାର ମନ୍ତ୍ରଣାଳୟ ନବଗଠିତ କେନ୍ଦ୍ରୀୟ ୱାକଫ ପରିଷଦ ବୈଠକରେ କେନ୍ଦ୍ର ସଂଖ୍ୟାଲଘୁ ବ୍ୟାପାର ମନ୍ତ୍ରୀ ମୁଖତାର ଆବାସ ନକଭୀଙ୍କ ଅଧ୍ୟକ୍ଷତା କେନ୍ଦ୍ରୀୟ ୱାକଫ ପରିଷଦ ପକ୍ଷରୁ ପୁଲୱାମା ଆତଙ୍କବାଦୀ ଆକ୍ରମଣରେ ସହିଦ ସୁରକ୍ଷା କର୍ମୀଙ୍କ ଉଦ୍ଦେଶ୍ୟରେ ଶ୍ରଦ୍ଧାଞ୍ଜଳି ପୂର୍ବକ ଦୁଇ ମିନିଟ ନୀରବ ପ୍ରାର୍ଥନା କେନ୍ଦ୍ର ସଂଖ୍ୟାଲଘୁ ବ୍ୟାପାର ମନ୍ତ୍ରୀ ମୁଖତାର ଆବାସ ନକଭୀ ନୂଆଦିଲ୍ଲୀରେ କହିଛନ୍ତି ଯେ, ସ୍ୱାଧୀନତା ପରେ ପ୍ରଥମ ଥର ପାଇଁ କେନ୍ଦ୍ର ସରକାର ସମାଜର ପଛୁଆ ବର୍ଗର ଶିକ୍ଷା ଅଧିକାର ଓ ରୋଜଗାର ସୃଷ୍ଟିକାରୀ କୌଶଳ ବିକାଶ ପାଇଁ ଦେଶରେ ଥିବା ୱାକଫ ସମ୍ପତିର ଉପଯୋଗ ପାଇଁ ଶତ ପ୍ରତିଶତ ଆର୍ଥିକ ସହାୟତା ଯୋଗାଇ ଦେଉଛନ୍ତି ।"
+    },
+    {
+      "index": 13261,
+      "src_tokens": 189,
+      "tgt_tokens": 68,
+      "src": "Group- A: Rising Student Club, Radha Gobinda Club, Mangala Club, Kishore Club, Group-B: Sunrise Club, Rising Star Club, Young Utkal Club, Independent Club, Bidanasi Club, Group-C: SAI- STC, Morning Club, Sunshine Club, Western Mahaveer Club, Group-D: Jobra Durga Club, Sports Hostel, Chand Club, O.G.P, Town Club, Group-E: Radha Raman Club, E.Co.Rly, Jayadurga Club, S.B.I, Group-F: Odisha Police, Y.V.C.G, Azadhind Club, Chauliaganj Club.",
+      "tgt": "ଗ୍ରୁପ୍‌ ଏ’ରେ ସାଇ-କଟକ, ଯୁବବନ୍ଧୁ ସାଂସ୍କୃତିକ ସଂଗଠନ, ସରକାରୀ ପ୍ରେସ୍‌, କ୍ଲବ୍‌ ଏନ୍‌ କ୍ଲବ୍‌, ଚାଉଳିଆଗଞ୍ଜ, ଟାଉନ କ୍ଲବ୍‌ ଏବଂ ଗ୍ରୁପ୍‌ ବି’ରେ ଏସ୍‌ବିଆଇ, ଚାନ୍ଦ, ଲାଲବାଗ, ଆଜାଦ ହିନ୍ଦ୍‌ ଓ ସନ୍‌ସାଇନ୍‌ କ୍ଲବ୍‌ ପ୍ରତିଦ୍ୱନ୍ଦ୍ୱିତା କରିବେ।"
+    },
+    {
+      "index": 14105,
+      "src_tokens": 145,
+      "tgt_tokens": 93,
+      "src": "Ministry of Health and Family Welfare 29 states and UTs have signedMoU for implementation of Ayushman Bharat - PradhanMantri Jan ArogyaAbhiyan (AB-PMJAY): J P Nadda ShriNadda further said thatthe scheme architecture and formulation has undergone a truly federal process, with stakeholder inputs taken from all States and UTs through the national conclaves, sectoral working groups, intensive field exercises and piloting of key modules.ShriNadda cautioned that strict action will be taken against those running the fake websites on Ayushman Bharat.",
+      "tgt": "ସ୍ୱାସ୍ଥ୍ୟ ଓ ପରିବାର ମନ୍ତ୍ରଣାଳୟ ପ୍ରଧାନମନ୍ତ୍ରୀ ଜନ ଆରୋଗ୍ୟ ଅଭିଯାନ କାର୍ଯ୍ୟକାରୀ କରିବା ପାଇଁ ଚୁକ୍ତି ପତ୍ର ସ୍ୱାକ୍ଷରିତ 16ଟି ରାଜ୍ୟ ଏବଂ କେନ୍ଦ୍ରଶାସିତ ଅଞ୍ଚଳରେ ପରୀକ୍ଷାମୂଳକ ଭାବେ ଆରମ୍ଭ ହେଲା ମିଶନ: ଜେ.ପି.ନଡ୍ଡା ଏକ ଲକ୍ଷ ଆରୋଗ୍ୟ ମିତ୍ରଙ୍କୁ ପ୍ରଶିକ୍ଷଣ ପ୍ରଦାନ ପାଇଁ ଏନଏଚଏ ଏବଂ ଏନଏସଡିସି ମଧ୍ୟରେ ଚୁକ୍ତି ପତ୍ର ସ୍ୱାକ୍ଷରିତ ପ୍ରଧାନମନ୍ତ୍ରୀ ଜନ ଆରୋଗ୍ୟ ଯୋଜନା ପାଇଁ 29ଟି ରାଜ୍ୟ ଏବଂ କେନ୍ଦ୍ରଶାସିତ ଅଞ୍ଚଳ ଚୁକ୍ତି ସ୍ୱାକ୍ଷରିତ କରି ଯୋଜନାକୁ କାର୍ଯ୍ୟକାରୀ କରିଛନ୍ତି । ପରୀକ୍ଷାମୂଳକ ଭାବେ 16ଟି ରାଜ୍ୟ ଏବଂ କେନ୍ଦ୍ରଶାସିତ ଅଞ୍ଚଳରେ ଏହା କାର୍ଯ୍ୟକାରୀ କରାଯାଇଛି ।"
+    },
+    {
+      "index": 14668,
+      "src_tokens": 145,
+      "tgt_tokens": 46,
+      "src": "Congress president Rahul Gandhi, former Congress president Sonia Gandhi, West Bengal Chief Minister Mamata Banerjee, Andhra Pradesh Chief Minister N Chandrababu Naidu, BSP chief Mayawati, SP leader Akhilesh Yadav, NCPs Sharad Pawar, CPI(M) leader Sitaram Yechury, Rashtriya Lok Dals Ajit Singh, Delhi Chief Minister Arvind Kejriwal, Kerala Chief Minister Pinarayi Vijayan, JD(U) rebel faction leader Sharad Yadav, Puducherry Chief Minister V Narayanaswamy, CPI leader D Raja and former Bihar Deputy Chief Minsiter Tejaswi Yadav shared stage at the event -- a scene that would go into the history of Indian politics.",
+      "tgt": "ଅନ୍ୟପକ୍ଷରେ କଂଗ୍ରେସ ଅଧ୍ୟକ୍ଷା ସୋନିଆ ଗାନ୍ଧି, ଓଡ଼ିଶା ମୁଖ୍ୟମନ୍ତ୍ରୀ ନବୀନ ପଟ୍ଟନାୟକ, ଦିଲ୍ଲୀ ମୁଖ୍ୟମନ୍ତ୍ରୀ ଅରବିନ୍ଦ କେଜ୍ରିୱାଲ୍, ପଶ୍ଚିମ ବଙ୍ଗ ମୁଖ୍ୟମନ୍ତ୍ରୀ ମମତା ବାନାର୍ଜୀ, କର୍ଣ୍ଣାଟକ ମୁଖ୍ୟମନ୍ତ୍ରୀ ସିଦ୍ଧରମୈୟା ଓ ସାଂସଦ ବୈଜୟନ୍ତ ପଣ୍ଡା ସମେତ ଅନ୍ୟ ବହୁ ନେତା ନୀତୀଶଙ୍କୁ ଶୁଭେଚ୍ଛା ଜଣାଇଛନ୍ତି।"
+    }
+  ]
+}
